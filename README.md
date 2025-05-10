@@ -6,4 +6,6 @@ This repository includes a simple demo code for creating a new image by combinin
 1. [UIGraphicsImageRenderer](https://developer.apple.com/documentation/uikit/uigraphicsimagerenderer)
 2. [ImageRenderer](https://developer.apple.com/documentation/swiftui/imagerenderer)
 
+![](./demo.png)
+
 For more details, please refer to my blog [SwiftUI: Merge Image with Images, Texts, Shapes. Two Ways.]().
